@@ -1,0 +1,19 @@
+# Web scraping and HTTP requests
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Data handling
+pandas>=2.0.0
+
+# Optional: MongoDB support (uncomment if using MongoDB)
+# pymongo>=4.5.0
+
+# Optional: Advanced parsing (uncomment if needed)
+# selenium>=4.15.0
+# playwright>=1.40.0
+
+# Development and testing (optional)
+# pytest>=7.4.0
+# black>=23.9.0
+# flake8>=6.0.0
